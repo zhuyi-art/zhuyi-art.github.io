@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on Yi Zhu</title>
-    <link>https://eternity.bora.sh/tags/</link>
+    <link>https://zhuyi.art/tags/</link>
     <description>Recent content in tags on Yi Zhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://eternity.bora.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhuyi.art/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>https://eternity.bora.sh/tags/archive/</link>
+      <link>https://zhuyi.art/tags/archive/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/archive/</guid>
+      <guid>https://zhuyi.art/tags/archive/</guid>
       <description></description>
     </item>
     <item>
       <title>Bunny</title>
-      <link>https://eternity.bora.sh/tags/bunny/</link>
+      <link>https://zhuyi.art/tags/bunny/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/bunny/</guid>
+      <guid>https://zhuyi.art/tags/bunny/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>https://eternity.bora.sh/tags/nature/</link>
+      <link>https://zhuyi.art/tags/nature/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/nature/</guid>
+      <guid>https://zhuyi.art/tags/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>People</title>
-      <link>https://eternity.bora.sh/tags/people/</link>
+      <link>https://zhuyi.art/tags/people/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/people/</guid>
+      <guid>https://zhuyi.art/tags/people/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>https://eternity.bora.sh/tags/space/</link>
+      <link>https://zhuyi.art/tags/space/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/space/</guid>
+      <guid>https://zhuyi.art/tags/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>https://eternity.bora.sh/tags/work/</link>
+      <link>https://zhuyi.art/tags/work/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://eternity.bora.sh/tags/work/</guid>
+      <guid>https://zhuyi.art/tags/work/</guid>
       <description></description>
     </item>
   </channel>

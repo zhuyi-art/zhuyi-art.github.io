@@ -10,13 +10,14 @@ hideDate: true
 
 <div align="center">
 	<p>
-        Deconstruct materiality. Reconstruct spirituality.
+        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+	</p>
+	<p>
+		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
 	</p>
 </div>
 
-### Biography
-
-Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company. Exposed to the senses of desires and struggles of humanity in the business world, he has created many artworks in painting and printmaking, which also established his methodology in modern contemporary art: deconstructivism and reconstructivism. His works have been in exhibitions in Shanghai and New York and collected by collectors around the world. He was awarded the Best Solo Artist award at the ArtExpo New York in 2023.
+### Features
 
 - **Configurable** features.
 
