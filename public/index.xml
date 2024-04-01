@@ -286,13 +286,6 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. This is demo site for Eternity theme. All images are taken from Unsplash. Features Configurable features.&#xA;Multiple images support.&#xA;Clean, fresh, minimalist.&#xA;Integrated lazy load.&#xA;Automatically creates resized thumbnails.&#xA;Shows exif if it exists.&#xA;Installation Install Hugo.&#xA;Create a new site.&#xA;hugo new site yoursite cd yoursite Remove default config file.&#xA;rm hugo.toml If you use an older version of Hugo (&amp;lt; v0.</description>
-    </item>
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
       <description>Deconstruct materiality. Reconstruct spirituality. Biography Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company.</description>
     </item>
   </channel>

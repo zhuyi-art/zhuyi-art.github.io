@@ -146,7 +146,5 @@
     <loc>http://localhost:1313/404.html</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>
