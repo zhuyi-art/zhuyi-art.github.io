@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Yi Zhu</title>
+    <link>http://localhost:1313/tags/2022/</link>
+    <description>Recent content in 2022 on Yi Zhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beach</title>
+      <link>http://localhost:1313/2022/3-beach/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/3-beach/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    <item>
+      <title>City – afternoon</title>
+      <link>http://localhost:1313/2022/2-city--afternoon/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/2-city--afternoon/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    <item>
+      <title>City – companion</title>
+      <link>http://localhost:1313/2022/1-city-companion/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/1-city-companion/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    <item>
+      <title>Primary force</title>
+      <link>http://localhost:1313/2022/4-dice/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/4-dice/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+  </channel>
+</rss>
