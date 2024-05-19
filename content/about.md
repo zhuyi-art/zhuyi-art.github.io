@@ -1,6 +1,4 @@
 ---
-images:
-- /images/about.png
 title: about
 url: about
 hideTitle: true
@@ -18,87 +16,30 @@ hideDate: true
 
 Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company. Exposed to the senses of desires and struggles of humanity in the business world, he has created many artworks in painting and printmaking, which also established his methodology in modern contemporary art: deconstructivism and reconstructivism. His works have been in exhibitions in Shanghai and New York and collected by collectors around the world. He was awarded the Best Solo Artist award at the ArtExpo New York in 2023.
 
-- **Configurable** features.
+### Selected Exhibitions & Fairs
 
-- **Multiple images** support.
+- 2025        London Art Fair (Art Fair), London, Britain [Upcoming]
+- 2024        Art Miami (Art Fair), Miami, USA [Upcoming]
+- 2024        Affordable Art Fair Stockholm (Art Fair), Stockholm, Sweden [Upcoming]
+- 2024        The Armory Show (Art Fair), New York, USA [Upcoming]
+- 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA [Upcoming]
+- 2024        ArtExpo New York (Art Fair), New York, USA
+- 2023        Art Plus (Art Fair), Shanghai, China
+- 2023        ArtExpo New York (Art Fair), New York, USA
+- 2022        ArtExpo New York (Art Fair), New York, USA
 
-- Clean, fresh, **minimalist**.
+### Awards
+- 2023        Winner – Best Solo Exhibitor, ArtExpo New York, New York, USA
+- 2022        Artistic Acknowledgement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
-- Integrated **lazy load**.
+### Selected Press
+- Interview with Al-Tiba9 Art Magazine (2024).
+- Carmela Brunetti, The Dematerialization of Artistic Form to Rediscover Life in Art on World N14 (2023).
+- Carmela Brunetti, Yi Zhu in Art on World N10 (2023).
+- Interview by Obras de Arte in Obras de Arte (2022).
+- Marabr in Revista The Bard (2022).
 
-- Automatically creates **resized** thumbnails.
-
-- Shows **exif** if it exists.
-
-### Installation
-
-1. Install Hugo.
-
-2. Create a new site.  
-	```shell
-	hugo new site yoursite
-	```  
-	```shell
-	cd yoursite
-	```  
-
-3. Remove default config file.  
-	```shell
-	rm hugo.toml
-	```
-	If you use an older version of Hugo ([< v0.110.0](https://github.com/gohugoio/hugo/issues/8979)), your config might be called differently:
-	```shell
-	rm config.toml
-	```
-
-4. Submodule the theme.  
-	```shell
-	git init
-	```  
-	```shell
-	git submodule add --depth=1 https://github.com/boratanrikulu/eternity.git themes/eternity
-	```  
-
-5. Create config.yaml;  
-	Apply (1) or (2).  
-
-	1. Use the example project (recommended).  
-		Copy all files from the example project.  
-		```shell
-		cp -r ./themes/eternity/example/eternity.bora.sh/* .
-		```  
-	2. Use empty content.  
-		Copy example config.  
-		```shell
-		cp ./themes/eternity/config.example.yaml ./config.yaml
-		```  
-6. Start the server.
-	```shell
-	hugo serve --port 1313
-	```  
-
-7. Go to [localhost:1313](http://localhost:1313).
-
-
-### Upgrade
-
-To get last updates, just git pull.
-```shell
-cd themes/eternity && git pull && cd -
-```
-
-### Usage of Posts
-
-[**Go to posts documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/posts.md)
-
-### Usage of Config.yaml
-
-[**Go to config documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/config.md)
-
-### Editing Style
-
-[**Go to style documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/style.md)
 
 ### Contact
 
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).
+Contact me through email at [**zhuyi@zhuyi.art**](mailto:zhuyi@zhuyi.art) for any inquiries.

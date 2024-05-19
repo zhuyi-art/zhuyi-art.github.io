@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: haha.png # todo: add your custom logo to static/
+  logo: Logo.png # todo: add your custom logo to static/
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yi Zhu # todo: set your full name.
@@ -45,7 +45,7 @@ params:
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
-  disableRadius: false
+  disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
 

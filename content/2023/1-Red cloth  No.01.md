@@ -4,7 +4,6 @@ images:
 - /images/2023/Red cloth  No.01.jpg
 - /images/2023/Red cloth  No.02.jpg
 - /images/2023/Red cloth  No.03.jpg
-- /images/2023/Red cloth  No.04.jpg
 multipleColumn: true
 title: Red cloth
 date: 2023-01-01
