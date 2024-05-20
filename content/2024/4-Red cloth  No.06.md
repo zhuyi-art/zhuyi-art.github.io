@@ -11,20 +11,31 @@ hideExif: true
 hideDate: true
 ---
 
-## Markdown
+### Info
 
-You can use **Markdown** format to write **your story**.
+- Title: Red cloth No.06
+- Year: 2024
+- Medium: Oil on canvas
+- Size: 100 x 80 cm
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+### Description
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Red is a desire.
 
-### Subtitle
+What art is might not be an important question.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Art reveals a dependency between subjectivity and objectivity. It deconstructs and reconstructs the life and world that we are so used to, by utilizing the common structures and space, so that we could sense the spirit of life.
 
-Some list
+The series of Red Cloth is a storytelling both inside and outside of the canvas 
+that make us sensed and awake. We always would like to hide the fidelity of life, 
+but it can always be found. It is a nature force of life. You can break red things, 
+while you cannot eliminate red.
 
-1. A b c
-2. A b c
-3. A b c 
+The series of Red Cloth is a language without a logic structure, which break 
+through the hinderance to the fidelity of life through the physical contraction 
+and expansion of humanity.
+
+We always want to get away from structured logic and fixed space. It is the way of life. We break through the hinderance to red. The contraction and expansion of red is there and we cannot ignore the desire of life in red.
+
+Sense the untamed life both on canvas and outside of the canvas.
+

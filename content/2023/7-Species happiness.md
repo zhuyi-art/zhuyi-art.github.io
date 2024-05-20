@@ -1,9 +1,9 @@
 ---
-weight: 23.05
+weight: 23.07
 images:
-- /images/2023/Spring river flower moon.jpg
+- /images/2023/Happy new species.jpeg
 multipleColumn: true
-title: Spring river flower moon
+title: Species happiness
 date: 2023-01-01
 tags:
 - 2023
@@ -14,7 +14,8 @@ hideDate: true
 
 ### Info
 
-- Title: Spring river flower moon
+- Title: Species happiness
 - Year: 2023
 - Medium: Oil on canvas
-- Size: 80 x 120 cm
+- Size: 50 x 40 cm
+

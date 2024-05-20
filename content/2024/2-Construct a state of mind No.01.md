@@ -13,20 +13,36 @@ hideExif: true
 hideDate: true
 ---
 
-## Markdown
+### Info
 
-You can use **Markdown** format to write **your story**.
+Left
+- Title: Construct a state of mind No.02
+- Year: 2024
+- Medium: Oil on canvas
+- Size: 100 x 80 cm
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+Right
+- Title: Construct a state of mind No.01
+- Year: 2024
+- Medium: Oil on canvas
+- Size: 100 x 80 cm
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+### Description
 
-### Subtitle
+Construct a state of mind.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+We cherish the totem of life. We pass on life with heritage. In difficult times, we 
+stay alive to seek beyond.
 
-Some list
+Yi Zhu is inspired by the totem and pottery culture of ancient China, along with 
+the papercutting techniques in the Han Dynasty of China. He utilizes deconstruction 
+and reconstruction to create a new relationship among colors, with the perception of
+ expansion and contraction of life.
 
-1. A b c
-2. A b c
-3. A b c 
+The creation of emotion from Yi Zhu is to awake the sense of life, empathy and love.
+
+Our emotions are created because of the society, family, people, species and the 
+disturbances of environment. Yi Zhu creates the subjective perception on the canvas 
+with the objective perception outside of the canvas.
+
+This is the spirit and style of Yi Zhu in creating a series of paintings of emotions.

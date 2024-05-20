@@ -13,20 +13,22 @@ hideExif: true
 hideDate: true
 ---
 
-## Markdown
+### Info
 
-You can use **Markdown** format to write **your story**.
+Left
+- Title: Posthuman  implant No.01
+- Year: 2024
+- Medium: Oil on canvas
+- Size: 100 x 80 cm
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+Right
+- Title: Posthuman  implant No.02
+- Year: 2024
+- Medium: Oil on canvas
+- Size: 100 x 80 cm
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+### Description
 
-### Subtitle
+Posthuman  implant
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Some list
-
-1. A b c
-2. A b c
-3. A b c 
+Implantation, when we face AI and the awakening of AI, the implantation of post-human life is the re-creation of life. We want to have a power like AI, but we are overwhelmed by our perception. We will be implanted.
