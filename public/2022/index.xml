@@ -30,11 +30,81 @@
       <description>Info Title: City – companion Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
+      <title>City – Species Space</title>
+      <link>http://localhost:1313/2022/5-city--species-space/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/5-city--species-space/</guid>
+      <description>Info Title: City - Species Space Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Double Cat</title>
+      <link>http://localhost:1313/2022/11-double-cat/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/11-double-cat/</guid>
+      <description>Info Title: Double Cat Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Food chain – After meals</title>
+      <link>http://localhost:1313/2022/10-food-chain--after-meals/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10-food-chain--after-meals/</guid>
+      <description>Info Title: Food chain – After meals Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
+    </item>
+    <item>
+      <title>Food chain – Fish bone</title>
+      <link>http://localhost:1313/2022/9-food-chain--fish-bone/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/9-food-chain--fish-bone/</guid>
+      <description>Info Title: Food chain – Fish bone Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Food chain – Ritual</title>
+      <link>http://localhost:1313/2022/8-food-chain--ritual/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/8-food-chain--ritual/</guid>
+      <description>Info Title: Food chain – Ritual Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Look</title>
+      <link>http://localhost:1313/2022/15-look/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/15-look/</guid>
+      <description>Info Title: Look Year: 2022 Medium: Oil on canvas Size: 60 x 50 cm </description>
+    </item>
+    <item>
+      <title>Nameless</title>
+      <link>http://localhost:1313/2022/12-nameless/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/12-nameless/</guid>
+      <description>Info Title: Nameless Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Portrait</title>
+      <link>http://localhost:1313/2022/14-portrait/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/14-portrait/</guid>
+      <description>Info Title: Portrait Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
+    </item>
+    <item>
       <title>Primary force</title>
       <link>http://localhost:1313/2022/4-dice/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2022/4-dice/</guid>
       <description>Info Title: Dice Year: 2022 Medium: Oil on canvas Size: 70 x 50 cm </description>
+    </item>
+    <item>
+      <title>The Fisherman&#39;s wife</title>
+      <link>http://localhost:1313/2022/13-the-fisherman_s-wife/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/13-the-fisherman_s-wife/</guid>
+      <description>Info Title: The Fisherman&amp;rsquo;s wife Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
+    </item>
+    <item>
+      <title>Thinker</title>
+      <link>http://localhost:1313/2022/6-thinker/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/6-thinker/</guid>
+      <description>Info Title: Thinker Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
   </channel>
 </rss>

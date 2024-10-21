@@ -1,7 +1,6 @@
 ---
 weight: 23.01
 images:
-- /images/2023/Red cloth  No.01.jpg
 - /images/2023/Red cloth  No.02.jpg
 - /images/2023/Red cloth  No.03.jpg
 multipleColumn: true
@@ -17,12 +16,6 @@ hideDate: true
 ### Info
 
 Left
-- Title: Red cloth No.01
-- Year: 2023
-- Medium: Oil on canvas
-- Size: 100 x 80 cm
-
-Mid
 - Title: Red cloth No.02
 - Year: 2023
 - Medium: Oil on canvas

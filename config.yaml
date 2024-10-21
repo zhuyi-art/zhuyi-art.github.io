@@ -14,9 +14,9 @@ params:
   portfolio:
     columns:
       desktop:
-        2022: 2
+        2022: 3
         archive: 6
-        2023: 2
+        2023: 3
         default: 3
       mobile:
         default: 2

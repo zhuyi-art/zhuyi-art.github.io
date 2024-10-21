@@ -18,11 +18,8 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 
 ### Selected Exhibitions & Fairs
 
-- 2025        London Art Fair (Art Fair), London, Britain [Upcoming]
 - 2024        Art Miami (Art Fair), Miami, USA [Upcoming]
-- 2024        Affordable Art Fair Stockholm (Art Fair), Stockholm, Sweden [Upcoming]
-- 2024        The Armory Show (Art Fair), New York, USA [Upcoming]
-- 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA [Upcoming]
+- 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA
 - 2024        ArtExpo New York (Art Fair), New York, USA
 - 2023        Art Plus (Art Fair), Shanghai, China
 - 2023        ArtExpo New York (Art Fair), New York, USA

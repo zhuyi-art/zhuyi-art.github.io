@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Best friend</title>
+      <link>http://localhost:1313/2024/12-best-friend/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/12-best-friend/</guid>
+      <description>Info Title: Best friend Year: 2024 Medium: Oil on canvas Size: 60 x 50 cm </description>
+    </item>
+    <item>
       <title>Cement space No.01</title>
       <link>http://localhost:1313/2024/1-cement-space-no.01/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -20,7 +27,42 @@
       <link>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</guid>
-      <description>Info Left&#xA;Title: Construct a state of mind No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: Construct a state of mind No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Description Construct a state of mind.&#xA;We cherish the totem of life. We pass on life with heritage. In difficult times, we stay alive to seek beyond.&#xA;Yi Zhu is inspired by the totem and pottery culture of ancient China, along with the papercutting techniques in the Han Dynasty of China.</description>
+      <description>Info Left&#xA;Title: Construct a state of mind No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Mid&#xA;Title: Construct a state of mind No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: Construct a state of mind No.03 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Description Construct a state of mind.&#xA;We cherish the totem of life. We pass on life with heritage.</description>
+    </item>
+    <item>
+      <title>Disrespectful intrusion  No.06</title>
+      <link>http://localhost:1313/2024/15-disrespectful-intrusion--no.06/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/15-disrespectful-intrusion--no.06/</guid>
+      <description>Info Title: Disrespectful intrusion No.06 Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Dopamine</title>
+      <link>http://localhost:1313/2024/9-dopamine/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/9-dopamine/</guid>
+      <description>Info Title: Dopamine Year: 2024 Medium: Oil on canvas Size: 70 x 50 cm </description>
+    </item>
+    <item>
+      <title>Happy travel</title>
+      <link>http://localhost:1313/2024/7-happy-travel/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/7-happy-travel/</guid>
+      <description>Info Title: Happy travel Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Like flowers and songs</title>
+      <link>http://localhost:1313/2024/8-like-flowers-and-songs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/8-like-flowers-and-songs/</guid>
+      <description>Info Title: Like flowers and songs Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>My world and this world</title>
+      <link>http://localhost:1313/2024/6-my-world-and-this-world--no.01/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/6-my-world-and-this-world--no.01/</guid>
+      <description>Info Left&#xA;Title: My world and this world No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: My world and this world No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
     </item>
     <item>
       <title>New species No.01</title>
@@ -30,11 +72,11 @@
       <description>Info Title: New species No.01 Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
-      <title>Peach</title>
-      <link>http://localhost:1313/2024/6-peach-no.01/</link>
+      <title>Pipe and flowers</title>
+      <link>http://localhost:1313/2024/16-pipe-and-flowers/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/6-peach-no.01/</guid>
-      <description>Info Left&#xA;Title: Peach No.01 Year: 2024 Medium: Oil on canvas Size: 50 x 40 cm Right&#xA;Title: Peach No.02 Year: 2024 Medium: Oil on canvas Size: 50 x 40 cm Description Peach&#xA;Growth from youth to maturity.</description>
+      <guid>http://localhost:1313/2024/16-pipe-and-flowers/</guid>
+      <description>Info Title: Pipe and flowers Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
       <title>Posthuman implant</title>
@@ -49,6 +91,34 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2024/4-red-cloth--no.06/</guid>
       <description>Info Title: Red cloth No.06 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Description Red is a desire.&#xA;What art is might not be an important question.&#xA;Art reveals a dependency between subjectivity and objectivity. It deconstructs and reconstructs the life and world that we are so used to, by utilizing the common structures and space, so that we could sense the spirit of life.&#xA;The series of Red Cloth is a storytelling both inside and outside of the canvas that make us sensed and awake.</description>
+    </item>
+    <item>
+      <title>Species happiness</title>
+      <link>http://localhost:1313/2024/13-species-happiness/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/13-species-happiness/</guid>
+      <description>Info Title: Species happiness Year: 2024 Medium: Oil on canvas Size: 60 x 50 cm </description>
+    </item>
+    <item>
+      <title>The tension and contraction of life</title>
+      <link>http://localhost:1313/2024/14-the-tension-and-contraction-of-life/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/14-the-tension-and-contraction-of-life/</guid>
+      <description>Info Title: The tension and contraction of life Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Thermal Energy</title>
+      <link>http://localhost:1313/2024/10-thermal-energy--no.01/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/10-thermal-energy--no.01/</guid>
+      <description>Info Left&#xA;Title: Thermal Energy No.01 Year: 2024 Medium: Oil on canvas Size: 80 x 120 cm Right&#xA;Title: Thermal Energy No.02 Year: 2024 Medium: Oil on canvas Size: 80 x 120 cm </description>
+    </item>
+    <item>
+      <title>Where to  No.01</title>
+      <link>http://localhost:1313/2024/11-where-to--no.01/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/11-where-to--no.01/</guid>
+      <description>Info Title: Where to No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
     </item>
   </channel>
 </rss>
