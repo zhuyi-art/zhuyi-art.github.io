@@ -18,7 +18,6 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 
 ### Selected Exhibitions & Fairs
 
-- 2024        Art Miami (Art Fair), Miami, USA [Upcoming]
 - 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA
 - 2024        ArtExpo New York (Art Fair), New York, USA
 - 2023        Art Plus (Art Fair), Shanghai, China
@@ -27,7 +26,8 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 
 ### Awards
 - 2023        Winner – Best Solo Exhibitor, ArtExpo New York, New York, USA
-- 2022        Artistic Acknowledgement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
+- 2023        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
+- 2022        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
 ### Selected Press
 - Interview with [**Contemporary Art Curator**](https://www.contemporaryartcuratormagazine.com/home-2/yi-zhu-review) (2024).
