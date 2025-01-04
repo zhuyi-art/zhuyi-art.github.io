@@ -37,6 +37,13 @@
       <description>Info Title: City - Species Space Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
+      <title>Dice</title>
+      <link>http://localhost:1313/2022/4-dice/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/4-dice/</guid>
+      <description>Info Title: Dice Year: 2022 Medium: Oil on canvas Size: 70 x 50 cm </description>
+    </item>
+    <item>
       <title>Double Cat</title>
       <link>http://localhost:1313/2022/11-double-cat/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -84,13 +91,6 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2022/14-portrait/</guid>
       <description>Info Title: Portrait Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
-    </item>
-    <item>
-      <title>Primary force</title>
-      <link>http://localhost:1313/2022/4-dice/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/4-dice/</guid>
-      <description>Info Title: Dice Year: 2022 Medium: Oil on canvas Size: 70 x 50 cm </description>
     </item>
     <item>
       <title>The Fisherman&#39;s wife</title>

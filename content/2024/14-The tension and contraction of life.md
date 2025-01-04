@@ -7,6 +7,7 @@ title: The tension and contraction of life
 date: 2024-01-01
 tags:
 - 2024
+- highlight
 hideExif: true
 hideDate: true
 ---

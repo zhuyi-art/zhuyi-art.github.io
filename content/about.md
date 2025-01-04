@@ -32,11 +32,11 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 ### Selected Press
 - Interview with [**Contemporary Art Curator**](https://www.contemporaryartcuratormagazine.com/home-2/yi-zhu-review) (2024).
 - Interview with [**Contemporary Art Collectors**](https://www.contemporary-art-collectors.com/art-insights/yi-zhu) (2024).
-- Interview with Al-Tiba9 Art Magazine (2024).
+- Interview with [**Al-Tiba9 Art Magazine**](https://www.altiba9.com/platfrom-interviews-for-artists/yi-zhu-painting-deconstruction-reconstruction?rq=Yi-zhu) (2024).
 - Carmela Brunetti, The Dematerialization of Artistic Form to Rediscover Life in Art on World N14 (2023).
 - Carmela Brunetti, Yi Zhu in Art on World N10 (2023).
 - Interview by Obras de Arte in Obras de Arte (2022).
-- Marabr in Revista The Bard (2022).
+- Interview with [**Revista The Bard**](https://revistathebard.com/yi-zhu/) (2022).
 
 
 ### Contact

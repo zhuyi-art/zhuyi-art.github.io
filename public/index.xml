@@ -37,6 +37,13 @@
       <description>Info Title: City - Species Space Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
+      <title>Dice</title>
+      <link>http://localhost:1313/2022/4-dice/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/4-dice/</guid>
+      <description>Info Title: Dice Year: 2022 Medium: Oil on canvas Size: 70 x 50 cm </description>
+    </item>
+    <item>
       <title>Double Cat</title>
       <link>http://localhost:1313/2022/11-double-cat/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -86,13 +93,6 @@
       <description>Info Title: Portrait Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
     </item>
     <item>
-      <title>Primary force</title>
-      <link>http://localhost:1313/2022/4-dice/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/4-dice/</guid>
-      <description>Info Title: Dice Year: 2022 Medium: Oil on canvas Size: 70 x 50 cm </description>
-    </item>
-    <item>
       <title>The Fisherman&#39;s wife</title>
       <link>http://localhost:1313/2022/13-the-fisherman_s-wife/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -119,13 +119,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2023/5-disrespectful-intrusion--no.01/</guid>
       <description>Info Title: Disrespectful intrusion No.01 Year: 2023 Medium: Oil on canvas Size: 80 x 60 cm Description Disrespectful intrusion&#xA;Distortion in culture is the perception of us regarding the disrespect of humanity toward nature.&#xA;I have always thought the exploit of materiality is a way of abuse in humanity. In fact, species in nature is also exploiting humanity through ways of survival and occupation of our bodies.&#xA;The creations by artists are a disrespectful intrusion.</description>
-    </item>
-    <item>
-      <title>Disrespectful intrusion  No.02</title>
-      <link>http://localhost:1313/2023/6-disrespectful-intrusion--no.02/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2023/6-disrespectful-intrusion--no.02/</guid>
-      <description>Info Title: Disrespectful intrusion No.02 Year: 2023 Medium: Oil on canvas Size: 80 x 60 cm Description Disrespectful intrusion&#xA;Distortion in culture is the perception of us regarding the disrespect of humanity toward nature.&#xA;I have always thought the exploit of materiality is a way of abuse in humanity. In fact, species in nature is also exploiting humanity through ways of survival and occupation of our bodies.&#xA;The creations by artists are a disrespectful intrusion.</description>
     </item>
     <item>
       <title>Disrespectful intrusion  No.03</title>
@@ -195,14 +188,21 @@
       <link>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</guid>
-      <description>Info Left&#xA;Title: Construct a state of mind No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Mid&#xA;Title: Construct a state of mind No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: Construct a state of mind No.03 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Description Construct a state of mind.&#xA;We cherish the totem of life. We pass on life with heritage.</description>
+      <description>Info Left&#xA;Title: Construct a state of mind No.03 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Mid&#xA;Title: Construct a state of mind No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: Construct a state of mind No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Description Construct a state of mind.&#xA;We cherish the totem of life. We pass on life with heritage.</description>
     </item>
     <item>
       <title>Disrespectful intrusion  No.06</title>
-      <link>http://localhost:1313/2024/15-disrespectful-intrusion--no.06/</link>
+      <link>http://localhost:1313/2024/20-disrespectful-intrusion--no.06/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/15-disrespectful-intrusion--no.06/</guid>
+      <guid>http://localhost:1313/2024/20-disrespectful-intrusion--no.06/</guid>
       <description>Info Title: Disrespectful intrusion No.06 Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>Disrespectful intrusion  No.07</title>
+      <link>http://localhost:1313/2024/21-disrespectful-intrusion--no.07/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/21-disrespectful-intrusion--no.07/</guid>
+      <description>Info Title: Disrespectful intrusion No.07 Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
       <title>Dopamine</title>
@@ -226,11 +226,39 @@
       <description>Info Title: Like flowers and songs Year: 2024 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
-      <title>My world and this world</title>
-      <link>http://localhost:1313/2024/6-my-world-and-this-world--no.01/</link>
+      <title>Me and I</title>
+      <link>http://localhost:1313/2024/15-me-and-i/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024/6-my-world-and-this-world--no.01/</guid>
-      <description>Info Left&#xA;Title: My world and this world No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm Right&#xA;Title: My world and this world No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+      <guid>http://localhost:1313/2024/15-me-and-i/</guid>
+      <description>Info Title: Me and I Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Mother is a tree</title>
+      <link>http://localhost:1313/2024/6-mother-is-a-tree/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/6-mother-is-a-tree/</guid>
+      <description>Info Title: Mother is a tree Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>My world and this world No. 01</title>
+      <link>http://localhost:1313/2024/17-my-world-and-this-world--no.01/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/17-my-world-and-this-world--no.01/</guid>
+      <description>Info Title: My world and this world No.01 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>My world and this world No. 02</title>
+      <link>http://localhost:1313/2024/18-my-world-and-this-world--no.02/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/18-my-world-and-this-world--no.02/</guid>
+      <description>Info Title: My world and this world No.02 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>My world and this world No. 03</title>
+      <link>http://localhost:1313/2024/19-my-world-and-this-world--no.03/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/19-my-world-and-this-world--no.03/</guid>
+      <description>Info Title: My world and this world No.03 Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
     </item>
     <item>
       <title>New species No.01</title>
@@ -268,6 +296,13 @@
       <description>Info Title: Species happiness Year: 2024 Medium: Oil on canvas Size: 60 x 50 cm </description>
     </item>
     <item>
+      <title>The fruit is ripe</title>
+      <link>http://localhost:1313/2024/22-the-fruit-is-ripe/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/22-the-fruit-is-ripe/</guid>
+      <description>Info Title: The fruit is ripe Year: 2024 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
       <title>The tension and contraction of life</title>
       <link>http://localhost:1313/2024/14-the-tension-and-contraction-of-life/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -300,7 +335,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Deconstruct materiality. Reconstruct spirituality. - [**Art Insights**](https://www.contemporary-art-collectors.com/art-insights/yi-zhu) Biography Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company.</description>
+      <description>Deconstruct materiality. Reconstruct spirituality. Biography Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company.</description>
     </item>
   </channel>
 </rss>

@@ -14,6 +14,9 @@
     <loc>http://localhost:1313/2022/5-city--species-space/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/2022/4-dice/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2022/11-double-cat/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,9 +38,6 @@
     <loc>http://localhost:1313/2022/14-portrait/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/4-dice/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2022/13-the-fisherman_s-wife/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,9 +48,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/5-disrespectful-intrusion--no.01/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2023/6-disrespectful-intrusion--no.02/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/7-disrespectful-intrusion--no.03/</loc>
@@ -83,7 +80,10 @@
     <loc>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/15-disrespectful-intrusion--no.06/</loc>
+    <loc>http://localhost:1313/2024/20-disrespectful-intrusion--no.06/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/21-disrespectful-intrusion--no.07/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/9-dopamine/</loc>
@@ -95,7 +95,19 @@
     <loc>http://localhost:1313/2024/8-like-flowers-and-songs/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/6-my-world-and-this-world--no.01/</loc>
+    <loc>http://localhost:1313/2024/15-me-and-i/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/6-mother-is-a-tree/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/17-my-world-and-this-world--no.01/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/18-my-world-and-this-world--no.02/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/19-my-world-and-this-world--no.03/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/5-new-species-no.01/</loc>
@@ -111,6 +123,9 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/13-species-happiness/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/22-the-fruit-is-ripe/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/14-the-tension-and-contraction-of-life/</loc>

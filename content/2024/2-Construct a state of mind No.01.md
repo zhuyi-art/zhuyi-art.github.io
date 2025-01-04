@@ -1,9 +1,9 @@
 ---
 weight: 24.02
 images:
-- /images/2024/Construct a state of mind No.01.jpg
-- /images/2024/Construct a state of mind No.02.jpg
 - /images/2024/Construct a state of mind No.03.jpg
+- /images/2024/Construct a state of mind No.02.jpg
+- /images/2024/Construct a state of mind No.01.jpg
 multipleColumn: true
 title: Construct a state of mind
 date: 2024-01-01
@@ -17,7 +17,7 @@ hideDate: true
 ### Info
 
 Left
-- Title: Construct a state of mind No.01
+- Title: Construct a state of mind No.03
 - Year: 2024
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
@@ -29,7 +29,7 @@ Mid
 - Size: 100 x 80 cm
 
 Right
-- Title: Construct a state of mind No.03
+- Title: Construct a state of mind No.01
 - Year: 2024
 - Medium: Oil on canvas
 - Size: 100 x 80 cm

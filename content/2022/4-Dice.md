@@ -3,11 +3,10 @@ weight: 22.04
 images:
 - /images/2022/Dice.jpg
 multipleColumn: true
-title: Primary force
+title: Dice
 date: 2022-01-01
 tags:
 - 2022
-- highlight
 hideExif: true
 hideDate: true
 ---

@@ -7,7 +7,6 @@ title: Best friend
 date: 2024-01-01
 tags:
 - 2024
-- highlight
 hideExif: true
 hideDate: true
 ---

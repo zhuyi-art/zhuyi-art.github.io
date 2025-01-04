@@ -7,7 +7,6 @@ title: Beach
 date: 2022-01-01
 tags:
 - 2022
-- highlight
 hideExif: true
 hideDate: true
 ---
