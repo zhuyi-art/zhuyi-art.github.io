@@ -7,9 +7,9 @@ hideDate: true
 ---
 
 <div align="center">
-	<p>
+    <p>
         Deconstruct materiality. Reconstruct spirituality.
-	</p>
+    </p>  
 </div>
 
 ### Biography
@@ -41,4 +41,4 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 
 ### Contact
 
-Contact me through email at [**zhuyi@zhuyi.art**](mailto:zhuyi@zhuyi.art) for any inquiries.
+Contact me through email at [**zhuyi@zhuyi.art**](mailto:zhuyi@zhuyi.art) for any inquiries. There are selected works for sale on [**Artsy**](https://www.artsy.net/artist/yi-zhu).
