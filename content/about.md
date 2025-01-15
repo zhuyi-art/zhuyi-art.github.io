@@ -30,6 +30,7 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 - 2022        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
 ### Selected Press
+- Interview with [**Circle Foundation for the Arts**](https://circle-arts.com/yi-zhu) (2025).
 - Interview with [**Contemporary Art Curator**](https://www.contemporaryartcuratormagazine.com/home-2/yi-zhu-review) (2024).
 - Interview with [**Contemporary Art Collectors**](https://www.contemporary-art-collectors.com/art-insights/yi-zhu) (2024).
 - Interview with [**Al-Tiba9 Art Magazine**](https://www.altiba9.com/platfrom-interviews-for-artists/yi-zhu-painting-deconstruction-reconstruction?rq=Yi-zhu) (2024).
