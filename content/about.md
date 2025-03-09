@@ -18,6 +18,7 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 
 ### Selected Exhibitions & Fairs
 
+- 2025        Art Below (Group Exhibition), Ad Lib Gallery, London, United Kingdom
 - 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA
 - 2024        ArtExpo New York (Art Fair), New York, USA
 - 2023        Art Plus (Art Fair), Shanghai, China
@@ -30,6 +31,7 @@ Yi Zhu is an artist in the evolving time of the Chinese society. He has experien
 - 2022        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
 ### Selected Press
+- Interview with [**AATONAU**](https://aatonau.com/yi-zhu-deconstructing-and-reconstructing-reality/) (2025).
 - Spotlight interview with [**Contemporary Art Curator**](https://www.contemporaryartcuratormagazine.com/home-2/yi-zhu-spotlight) (2025).
 - Interview with [**Circle Foundation for the Arts**](https://circle-arts.com/yi-zhu) (2025).
 - Interview with [**Contemporary Art Curator**](https://www.contemporaryartcuratormagazine.com/home-2/yi-zhu-review) (2024).
