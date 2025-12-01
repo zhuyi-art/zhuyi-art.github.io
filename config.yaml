@@ -42,6 +42,7 @@ params:
   homepage: "/highlight" # homepage link, mostly same with menu.main[0]
   specialPages:
     - highlight
+    - 2025
     - 2024
     - 2023
     - 2022
@@ -70,21 +71,24 @@ menu:
     - name: highlight
       url: /highlight/
       weight: 1
+    - name: 2025
+      url: /2025/
+      weight: 2
     - name: 2024
       url: /2024/
-      weight: 2
+      weight: 3
     - name: 2023
       url: /2023/
-      weight: 3
+      weight: 4
     - name: 2022
       url: /2022/
-      weight: 4
+      weight: 5
 #    - name: archive
 #      url: /tags/archive/
 #      weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 6
 #    - name: people
 #      url: /people/
 #      weight: 6

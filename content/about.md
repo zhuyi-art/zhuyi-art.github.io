@@ -17,7 +17,10 @@ hideDate: true
 Yi Zhu is an artist in the evolving time of the Chinese society. He has experienced the dramatic change of the social economic structures of China, which has influenced and shaped his worldview. In his early career, he created artworks in print making and illustration with unique perspectives and compositions. He has also pioneered in point-of-sale advertising design works in China with his commercial design company. Exposed to the senses of desires and struggles of humanity in the business world, he has created many artworks in painting and printmaking, which also established his methodology in modern contemporary art: deconstructivism and reconstructivism. His works have been in exhibitions in Shanghai and New York and collected by collectors around the world. He was awarded the Best Solo Artist award at the ArtExpo New York in 2023.
 
 ### Selected Exhibitions & Fairs
-
+- 2025        "Interconnected Lines" (Group Exhibition), Artio Gallery at MEAM – Museu Europeu d’Art Modern, Barcelona, Spain
+- 2025        Art Fair Innsbruck (Art Fair), MONAT Gallery, Innsbruck, Austria
+- 2025        "EMBER" (Group Exhibition), MONAT Gallery, Madrid, Spain
+- 2025        Art Plus (Art Fair), Shanghai, China
 - 2025        Art Below (Group Exhibition), Ad Lib Gallery, London, United Kingdom
 - 2024        Chelsea Biennale (Group Exhibition), Amsterdam Whitney Gallery, New York, USA
 - 2024        ArtExpo New York (Art Fair), New York, USA

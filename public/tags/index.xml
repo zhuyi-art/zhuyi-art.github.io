@@ -6,20 +6,27 @@
     <description>Recent content in tags on Yi Zhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/2024/</guid>
+      <title>2025</title>
+      <link>http://localhost:1313/tags/2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Highlight</title>
       <link>http://localhost:1313/tags/highlight/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
       <description></description>
     </item>
     <item>
