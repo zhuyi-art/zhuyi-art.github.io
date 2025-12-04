@@ -1,9 +1,9 @@
 ---
 weight: 25.08
 images:
-- /images/2025/Hello it‘s me.jpg
+- /images/2025/Hello its me.jpg
 multipleColumn: false
-title: Hello it‘s me
+title: Hello it's me
 date: 2025-01-01
 tags:
 - 2025
@@ -14,7 +14,7 @@ hideDate: true
 
 ### Info
 
-- Title: Tablecloth
+- Title: Hello it's me
 - Year: 2025
 - Medium: Oil on canvas
 - Size: 80 x 60 cm
