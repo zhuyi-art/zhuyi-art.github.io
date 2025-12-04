@@ -1,12 +1,12 @@
 ---
-weight: 24.01
+weight: 25.02
 images:
-- /images/2024/Cement space No.01.jpg
-multipleColumn: false
-title: Cement space No.01
-date: 2024-01-01
+- /images/2025/Cement space No.03.jpg
+multipleColumn: true
+title: Cement space No.03
+date: 2025-01-01
 tags:
-- 2024
+- 2025
 - highlight
 hideExif: true
 hideDate: true
@@ -14,8 +14,8 @@ hideDate: true
 
 ### Info
 
-- Title: Cement space No.01
-- Year: 2024
+- Title: Cement space No.03
+- Year: 2025
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
 

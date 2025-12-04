@@ -1,20 +1,19 @@
 ---
-weight: 24.15
+weight: 25.04
 images:
-- /images/2024/Me and I.jpg
+- /images/2025/Tablecloth.jpg
 multipleColumn: true
-title: Me and I
-date: 2024-01-01
+title: Tablecloth
+date: 2025-01-01
 tags:
-- 2024
-- highlight
+- 2025
 hideExif: true
 hideDate: true
 ---
 
 ### Info
 
-- Title: Me and I
-- Year: 2024
+- Title: Tablecloth
+- Year: 2025
 - Medium: Oil on canvas
 - Size: 100 x 80 cm

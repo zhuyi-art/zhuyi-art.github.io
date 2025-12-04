@@ -1,12 +1,12 @@
 ---
-weight: 24.11
+weight: 25.05
 images:
-- /images/2024/Where to  No.01.jpg
+- /images/2025/Fortune.jpg
 multipleColumn: true
-title: Where to  No.01
-date: 2024-01-01
+title: Fortune
+date: 2025-01-01
 tags:
-- 2024
+- 2025
 - highlight
 hideExif: true
 hideDate: true
@@ -14,7 +14,7 @@ hideDate: true
 
 ### Info
 
-- Title: Where to  No.01
-- Year: 2024
+- Title: Fortune
+- Year: 2025
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
