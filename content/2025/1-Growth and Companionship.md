@@ -1,5 +1,5 @@
 ---
-weight: 25.02
+weight: 25.01
 images:
 - /images/2025/Growth and Companionship No.03.jpg
 - /images/2025/Growth and Companionship No.02.jpg
