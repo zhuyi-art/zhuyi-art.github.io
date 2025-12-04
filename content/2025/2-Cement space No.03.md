@@ -1,7 +1,7 @@
 ---
 weight: 25.02
 images:
-- /images/2025/Cement space No.03.jpg
+- /images/2025/Cement Space No.03.jpg
 multipleColumn: true
 title: Cement space No.03
 date: 2025-01-01
