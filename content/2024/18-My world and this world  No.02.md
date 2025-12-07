@@ -7,7 +7,7 @@ title: My world and this world No. 02
 date: 2024-01-01
 tags:
 - 2024
-- highlight
+- awards
 hideExif: true
 hideDate: true
 ---
@@ -18,3 +18,5 @@ hideDate: true
 - Year: 2024
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
+
+The oil painting **My World and This World No.02** won the Gold Award in the Painting category at the Spring Session of the UK FADA Future Art & Design Awards in 2025.

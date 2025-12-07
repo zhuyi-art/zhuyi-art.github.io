@@ -39,13 +39,14 @@ params:
 #    - icon: 'fab fa-linkedin-in fa-lg'
 #    - icon: 'fab fa-github fa-lg'
 #      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/highlight" # homepage link, mostly same with menu.main[0]
+  homepage: "/awards" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - highlight
+    - awards
     - 2025
     - 2024
     - 2023
     - 2022
+    - sold
     - archive
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -68,27 +69,27 @@ permalinks:
 
 menu:
   main:
-    - name: highlight
-      url: /highlight/
+    - name: awards
+      url: /awards/
       weight: 1
+    - name: artist
+      url: /artist/
+      weight: 2
     - name: 2025
       url: /2025/
-      weight: 2
+      weight: 3
     - name: 2024
       url: /2024/
-      weight: 3
+      weight: 4
     - name: 2023
       url: /2023/
-      weight: 4
+      weight: 5
     - name: 2022
       url: /2022/
-      weight: 5
+      weight: 6
 #    - name: archive
 #      url: /tags/archive/
 #      weight: 4
-    - name: about
-      url: /about/
-      weight: 6
-#    - name: people
-#      url: /people/
-#      weight: 6
+    - name: sold
+      url: /sold/
+      weight: 7

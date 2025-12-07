@@ -8,7 +8,6 @@ title: Love you
 date: 2025-01-01
 tags:
 - 2025
-- highlight
 hideExif: true
 hideDate: true
 ---

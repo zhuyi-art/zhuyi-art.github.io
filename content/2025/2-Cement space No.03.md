@@ -7,7 +7,6 @@ title: Cement space No.03
 date: 2025-01-01
 tags:
 - 2025
-- highlight
 hideExif: true
 hideDate: true
 ---

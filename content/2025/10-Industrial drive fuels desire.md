@@ -7,7 +7,7 @@ title: Industrial drive fuels desire
 date: 2025-01-01
 tags:
 - 2025
-- highlight
+- awards
 hideExif: true
 hideDate: true
 ---
@@ -18,3 +18,5 @@ hideDate: true
 - Year: 2025
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
+
+The oil painting **Industrial Drive Fuels Desire** won the Best Green Painting Gold Prize at the UK World Green Sustainable Design Award in 2025.

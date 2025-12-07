@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/2022/3-beach/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/2-city--afternoon/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2022/1-city-companion/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +15,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2022/11-double-cat/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2022/10-food-chain--after-meals/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2022/9-food-chain--fish-bone/</loc>
@@ -35,12 +29,6 @@
     <loc>http://localhost:1313/2022/12-nameless/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/14-portrait/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2022/13-the-fisherman_s-wife/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2022/6-thinker/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,9 +39,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/7-disrespectful-intrusion--no.03/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2023/8-disrespectful-intrusion--no.05/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/10-emotions-and-desires/</loc>
@@ -80,9 +65,6 @@
     <loc>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/20-disrespectful-intrusion--no.06/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2024/21-disrespectful-intrusion--no.07/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,9 +77,6 @@
     <loc>http://localhost:1313/2024/8-like-flowers-and-songs/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/15-me-and-i/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2024/6-mother-is-a-tree/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -107,13 +86,7 @@
     <loc>http://localhost:1313/2024/18-my-world-and-this-world--no.02/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/19-my-world-and-this-world--no.03/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2024/5-new-species-no.01/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2024/16-pipe-and-flowers/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/3-posthuman--implant-no.01/</loc>
@@ -122,22 +95,55 @@
     <loc>http://localhost:1313/2024/4-red-cloth--no.06/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/13-species-happiness/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2024/22-the-fruit-is-ripe/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2024/14-the-tension-and-contraction-of-life/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/10-thermal-energy--no.01/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/2025/6-18-years-old/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/11-where-to--no.01/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/2025/7-blue-lotus/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/2-cement-space-no.03/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/9-desire---torn-and-struggling/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/14-economic-dimension---vulnerable-groups/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/5-fortune/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2025/1-growth-and-companionship/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/8-hello-its-me/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/12-heterogeneous-element/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/10-industrial-drive-fuels-desire/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/3-love-you/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/15-my-neighbor-gave-me-a-camisole/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/13-symbol-of-destiny/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/4-tablecloth/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/11-the-desire-in-the-primary-stage-of-industry/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/16-there-is-a-cat-between-us/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -149,7 +155,7 @@
     <loc>http://localhost:1313/2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/highlight/</loc>
+    <loc>http://localhost:1313/tags/awards/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -175,8 +181,10 @@
   </url><url>
     <loc>http://localhost:1313/404.html</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/artist/</loc>
   </url><url>
-    <loc>http://localhost:1313/highlight/</loc>
+    <loc>http://localhost:1313/awards/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sold/</loc>
   </url>
 </urlset>

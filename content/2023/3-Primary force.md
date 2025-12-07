@@ -7,7 +7,6 @@ title: Primary force
 date: 2023-01-01
 tags:
 - 2023
-- highlight
 hideExif: true
 hideDate: true
 ---
