@@ -30,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>In Private Collection</title>
+      <link>http://localhost:1313/tags/in-private-collection/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/in-private-collection/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>2023</title>
       <link>http://localhost:1313/tags/2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -41,13 +48,6 @@
       <link>http://localhost:1313/tags/2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/2022/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In Private Collection</title>
-      <link>http://localhost:1313/tags/in-private-collection/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/in-private-collection/</guid>
       <description></description>
     </item>
   </channel>

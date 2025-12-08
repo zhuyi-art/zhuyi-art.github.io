@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/2022/5-city--species-space/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/22.05-desire-and-desire/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2022/4-dice/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,10 +44,16 @@
     <loc>http://localhost:1313/2022/12-nameless/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/22.03-portrait/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/in-private-collection/22.01-the-fisherman_s-wife/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2022/6-thinker/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/22.04-warm-afternoon/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/9-chaos/</loc>
@@ -53,10 +62,25 @@
     <loc>http://localhost:1313/2023/5-disrespectful-intrusion--no.01/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.04-disrespectful-intrusion--no.02/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.05-disrespectful-intrusion--no.03/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2023/10-emotions-and-desires/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.07-hi/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2023/2-new-species-no.02/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.03-peeling-wall-paint/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.01-popular-fiction/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2023/3-primary-force/</loc>
@@ -65,13 +89,25 @@
     <loc>http://localhost:1313/2023/1-red-cloth--no.01/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.06-red-cloth--no.05/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2023/4-spring-river-flower-moon/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/23.02-waistband/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/12-best-friend/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/24.02-cement-space-no.01/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2024/2-construct-a-state-of-mind-no.01/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/24.01-disrespectful-intrusion--no.06/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/21-disrespectful-intrusion--no.07/</loc>
@@ -176,6 +212,12 @@
     <loc>http://localhost:1313/2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/in-private-collection/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/in-private-collection/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -186,12 +228,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/in-private-collection/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/in-private-collection/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/404.html</loc>
