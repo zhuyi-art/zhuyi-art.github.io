@@ -1,6 +1,6 @@
 ---
-title: sold
-url: sold
+title: in private collection
+url: in private collection
 ---
 
 <div align="center">

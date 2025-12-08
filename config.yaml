@@ -46,7 +46,7 @@ params:
     - 2024
     - 2023
     - 2022
-    - sold
+    - in private collection
     - archive
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -90,6 +90,6 @@ menu:
 #    - name: archive
 #      url: /tags/archive/
 #      weight: 4
-    - name: sold
-      url: /sold/
+    - name: in private collection
+      url: /in private collection/
       weight: 7

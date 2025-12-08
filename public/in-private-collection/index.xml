@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>in private collection on Yi Zhu</title>
+    <link>http://localhost:1313/in-private-collection/</link>
+    <description>Recent content in in private collection on Yi Zhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/in-private-collection/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
