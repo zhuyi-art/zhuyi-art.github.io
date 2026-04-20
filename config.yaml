@@ -42,6 +42,7 @@ params:
   homepage: "/awards" # homepage link, mostly same with menu.main[0]
   specialPages:
     - awards
+    - 2026
     - 2025
     - 2024
     - 2023
@@ -75,21 +76,24 @@ menu:
     - name: artist
       url: /artist/
       weight: 2
+    - name: 2026
+      url: /2026/
+      weight: 3
     - name: 2025
       url: /2025/
-      weight: 3
+      weight: 4
     - name: 2024
       url: /2024/
-      weight: 4
+      weight: 5
     - name: 2023
       url: /2023/
-      weight: 5
+      weight: 6
     - name: 2022
       url: /2022/
-      weight: 6
+      weight: 7
 #    - name: archive
 #      url: /tags/archive/
 #      weight: 4
     - name: in private collection
       url: /in private collection/
-      weight: 7
+      weight: 8
