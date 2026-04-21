@@ -7,7 +7,6 @@ title: Agricultural • China
 date: 2026-01-01
 tags:
 - 2026
-- awards
 hideExif: true
 hideDate: true
 ---
