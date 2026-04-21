@@ -17,6 +17,7 @@ params:
         2022: 3
         archive: 6
         2023: 3
+        awards: 2
         default: 3
       mobile:
         default: 2

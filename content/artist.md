@@ -23,6 +23,7 @@ Confronted with various social phenomena in the business sector and the struggle
 The underlying logic of life is breathing. Social factors endow this breathing with a stance, as well as the tension and contraction of life. This has ignited in Yi Zhu a strong desire to express such perceptions of life. Exhalation represents tension, while inhalation represents contraction. Life should not be suppressed; the essence of life is freedom.
 
 ### Selected Exhibitions & Fairs
+- 2026        "From Genesis to Presence" (Solo Exhibition), DRC, Beijing, China
 - 2025        "Interconnected Lines" (Group Exhibition), Artio Gallery at MEAM – Museu Europeu d’Art Modern, Barcelona, Spain
 - 2025        Art Fair Innsbruck (Art Fair), MONAT Gallery, Innsbruck, Austria
 - 2025        "EMBER" (Group Exhibition), MONAT Gallery, Madrid, Spain
@@ -36,6 +37,9 @@ The underlying logic of life is breathing. Social factors endow this breathing w
 - 2023        ArtExpo New York (Art Fair), New York, USA
 - 2022        ArtExpo New York (Art Fair), New York, USA
 
+### Auction
+- 2025        Oil painting ["See the world"](https://www.chinwerussell.com/sold-at-auction?lightbox=comp-m66eb424__ccc57e01-7ef3-4f05-9bc5-46f981aeb7a8_runtime_dataItem-m66eb425) was sold on LiveAuctioneers via by Chinwe Russell Art Gallery  
+
 ### Awards
 - 2025        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 - 2025        Painting Gold Prize, GBCA Global Best Creative Awards - 2025 Season 2, Wembely, England 
@@ -47,6 +51,8 @@ The underlying logic of life is breathing. Social factors endow this breathing w
 - 2022        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
 ### Selected Press
+- Article "Yi Zhu: Deconstructing Life and Reconstructing Existence through the Expressive Power of Oil" by [**Fine Arts News**](https://fineartsnews.com/2026/04/yi-zhu-deconstructing-life-and-reconstructing-existence-through-the-expressive-power-of-oil/) (2026).
+- Article "10 Questions with Yi Zhu" by [**Al-Tiba9 Art Magazine**](https://www.altiba9.com/artist-interviews/yi-zhu-painting-figures-philosophy-spiritual) (2026).
 - Article "Mr. Zhu Yi's Deconstruction and Reconstruction of Painting - Decentralized Tuber Works from Genesis to Existence" by [**Artron**](https://news.artron.net/20251113/n1145911.html) (2025).
 - Article "Painter Zhu Yi gained attention for his internationally award-winning works at the 2025 Art Plus Shanghai Fair" by [**ChinaNews**](https://www.sh.chinanews.com.cn/swzx/2025-09-17/140060.shtml) (2025).
 - Review article "Yi Zhu: Unraveling Anatomy, Reassembling Meaning" by [**AATONAU**](https://aatonau.com/yi-zhu-unraveling-anatomy-reassembling-meaning/) (2025).
