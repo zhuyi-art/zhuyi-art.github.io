@@ -38,13 +38,13 @@
     <loc>http://localhost:1313/2022/8-food-chain--ritual/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2022/15-look/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2022/12-nameless/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/in-private-collection/22.03-portrait/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/in-private-collection/22.06-see-the-world/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/in-private-collection/22.01-the-fisherman_s-wife/</loc>
@@ -155,7 +155,10 @@
     <loc>http://localhost:1313/2025/7-blue-lotus/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/2-cement-space-no.03/</loc>
+    <loc>http://localhost:1313/in-private-collection/25.03-cement-space-no.03/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/17-cement-space-no.05/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/in-private-collection/25.02-consciousness-vine/</loc>
@@ -203,8 +206,59 @@
     <loc>http://localhost:1313/2025/16-there-is-a-cat-between-us/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/2026/11-404-not-found/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/12-503-service-unavailable/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/14-503-int_07/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/7-agricultural--china/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/3-how-it-perishes/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/4-i-can-curl-up-inside-my-own-body-but-i-cannot-curl-up-in-the-world/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/9-in-this-context-we-are-so-feeble/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/13-interface-entity-no.-01/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/10-interventionism/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/6-no-more-sockets-left/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/2-puppet-without-strings/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/5-we-finally-become-what-data-made-us/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/8-were-not-in-kansas-anymore/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/1-where-to-go/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -219,9 +273,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/in-private-collection/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2024/</loc>

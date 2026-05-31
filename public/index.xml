@@ -6,7 +6,7 @@
     <description>Recent content on Yi Zhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Food chain – After meals</title>
@@ -93,13 +93,6 @@
       <description>Info Title: Food chain – Ritual Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
-      <title>Look</title>
-      <link>http://localhost:1313/2022/15-look/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2022/15-look/</guid>
-      <description>Info Title: Look Year: 2022 Medium: Oil on canvas Size: 60 x 50 cm </description>
-    </item>
-    <item>
       <title>Nameless</title>
       <link>http://localhost:1313/2022/12-nameless/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -112,6 +105,13 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/in-private-collection/22.03-portrait/</guid>
       <description>Info Title: Portrait Year: 2022 Medium: Oil on canvas Size: 80 x 60 cm Sold </description>
+    </item>
+    <item>
+      <title>See the world</title>
+      <link>http://localhost:1313/in-private-collection/22.06-see-the-world/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/in-private-collection/22.06-see-the-world/</guid>
+      <description>Info Title: See the world Year: 2022 Medium: Oil on canvas Size: 60 x 50 cm Sold </description>
     </item>
     <item>
       <title>The Fisherman&#39;s wife</title>
@@ -367,10 +367,17 @@
     </item>
     <item>
       <title>Cement space No.03</title>
-      <link>http://localhost:1313/2025/2-cement-space-no.03/</link>
+      <link>http://localhost:1313/in-private-collection/25.03-cement-space-no.03/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025/2-cement-space-no.03/</guid>
-      <description>Info Title: Cement space No.03 Year: 2025 Medium: Oil on canvas Size: 100 x 80 cm Description Cement space&#xA;I feel the fragmentation and linearity of the modern city with layers of depth when I was in New York, Hong Kong, Beijing and Shanghai. This feeling is transformed into elements, with a pure special arrangement with structural gaps for growth and survival. Beyond the fragmentation boundary is the struggle for survival and freedom, revealing the purity of the mutual reliance for growth between human and species.</description>
+      <guid>http://localhost:1313/in-private-collection/25.03-cement-space-no.03/</guid>
+      <description>Info Title: Cement space No.03 Year: 2025 Medium: Oil on canvas Size: 100 x 80 cm Sold Description Cement space&#xA;I feel the fragmentation and linearity of the modern city with layers of depth when I was in New York, Hong Kong, Beijing and Shanghai. This feeling is transformed into elements, with a pure special arrangement with structural gaps for growth and survival. Beyond the fragmentation boundary is the struggle for survival and freedom, revealing the purity of the mutual reliance for growth between human and species.</description>
+    </item>
+    <item>
+      <title>Cement space No.05</title>
+      <link>http://localhost:1313/2025/17-cement-space-no.05/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/17-cement-space-no.05/</guid>
+      <description>Info Title: Cement space No.05 Year: 2025 Medium: Oil on canvas Size: 100 x 80 cm Description Cement space&#xA;I feel the fragmentation and linearity of the modern city with layers of depth when I was in New York, Hong Kong, Beijing and Shanghai. This feeling is transformed into elements, with a pure special arrangement with structural gaps for growth and survival. Beyond the fragmentation boundary is the struggle for survival and freedom, revealing the purity of the mutual reliance for growth between human and species.</description>
     </item>
     <item>
       <title>Consciousness Vine</title>
@@ -412,7 +419,7 @@
       <link>http://localhost:1313/2025/1-growth-and-companionship/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2025/1-growth-and-companionship/</guid>
-      <description>Info Left&#xA;Title: Construct a state of mind No.03 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm Mid&#xA;Title: Construct a state of mind No.02 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm Right&#xA;Title: Construct a state of mind No.01 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm </description>
+      <description>Info Left&#xA;Title: Construct a state of mind No.01 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm Mid&#xA;Title: Construct a state of mind No.02 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm Right&#xA;Title: Construct a state of mind No.03 Year: 2025 Medium: Oil on canvas Size: 80 x 60 cm </description>
     </item>
     <item>
       <title>Hello it&#39;s me</title>
@@ -476,6 +483,104 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2025/16-there-is-a-cat-between-us/</guid>
       <description>Info Title: There is a cat between us Year: 2025 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>404 Not Found</title>
+      <link>http://localhost:1313/2026/11-404-not-found/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/11-404-not-found/</guid>
+      <description>Info Title: 404 Not Found Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>503 Service Unavailable</title>
+      <link>http://localhost:1313/2026/12-503-service-unavailable/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/12-503-service-unavailable/</guid>
+      <description>Info Title: 503 Service Unavailable Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>503-INT_07</title>
+      <link>http://localhost:1313/2026/14-503-int_07/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/14-503-int_07/</guid>
+      <description>Info Title: 503-INT_07 Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Agricultural • China</title>
+      <link>http://localhost:1313/2026/7-agricultural--china/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/7-agricultural--china/</guid>
+      <description>Info Title: Agricultural • China Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>How It Perishes</title>
+      <link>http://localhost:1313/2026/3-how-it-perishes/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/3-how-it-perishes/</guid>
+      <description>Info Title: How It Perishes Year: 2026 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>I can curl up inside my own body, but I cannot curl up in the world.</title>
+      <link>http://localhost:1313/2026/4-i-can-curl-up-inside-my-own-body-but-i-cannot-curl-up-in-the-world/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/4-i-can-curl-up-inside-my-own-body-but-i-cannot-curl-up-in-the-world/</guid>
+      <description>Info Title: I can curl up inside my own body, but I cannot curl up in the world. Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>In this context, we are so feeble</title>
+      <link>http://localhost:1313/2026/9-in-this-context-we-are-so-feeble/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/9-in-this-context-we-are-so-feeble/</guid>
+      <description>Info Title: In this context, we are so feeble Year: 2026 Medium: Oil on canvas Size: 60 x 50 cm </description>
+    </item>
+    <item>
+      <title>Interface Entity No. 01</title>
+      <link>http://localhost:1313/2026/13-interface-entity-no.-01/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/13-interface-entity-no.-01/</guid>
+      <description>Info Title: Interface Entity No. 01 Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Interventionism</title>
+      <link>http://localhost:1313/2026/10-interventionism/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/10-interventionism/</guid>
+      <description>Info Title: Interventionism Year: 2026 Medium: Oil on canvas Size: 60 x 50 cm </description>
+    </item>
+    <item>
+      <title>No More Sockets Left</title>
+      <link>http://localhost:1313/2026/6-no-more-sockets-left/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/6-no-more-sockets-left/</guid>
+      <description>Info Title: No More Sockets Left Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Puppet Without Strings</title>
+      <link>http://localhost:1313/2026/2-puppet-without-strings/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/2-puppet-without-strings/</guid>
+      <description>Info Title: Puppet Without Strings Year: 2026 Medium: Oil on canvas Size: 80 x 60 cm </description>
+    </item>
+    <item>
+      <title>We Finally Become What Data Made Us</title>
+      <link>http://localhost:1313/2026/5-we-finally-become-what-data-made-us/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/5-we-finally-become-what-data-made-us/</guid>
+      <description>Info Title: We Finally Become What Data Made Us Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>We&#39;re not in Kansas anymore</title>
+      <link>http://localhost:1313/2026/8-were-not-in-kansas-anymore/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/8-were-not-in-kansas-anymore/</guid>
+      <description>Info Title: We&amp;rsquo;re not in Kansas anymore Year: 2026 Medium: Oil on canvas Size: 100 x 80 cm </description>
+    </item>
+    <item>
+      <title>Where to Go</title>
+      <link>http://localhost:1313/2026/1-where-to-go/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/1-where-to-go/</guid>
+      <description>Info Title: Where to Go Year: 2026 Medium: Oil on canvas Size: 80 x 120 cm </description>
     </item>
     <item>
       <title>404</title>
