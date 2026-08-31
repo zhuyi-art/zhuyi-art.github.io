@@ -41,6 +41,9 @@ The underlying logic of life is breathing. Social factors endow this breathing w
 - 2025        Oil painting ["See the world"](https://www.chinwerussell.com/sold-at-auction?lightbox=comp-m66eb424__ccc57e01-7ef3-4f05-9bc5-46f981aeb7a8_runtime_dataItem-m66eb425) was sold on LiveAuctioneers via by Chinwe Russell Art Gallery  
 
 ### Awards
+- 2026        Best Green Painting Gold Prize, World Green Sustainable Design Award - 2026 Summer Season, Wembley, England
+- 2026        Oil Painting Platinum Prize, UK International AI Award - 2026 Summer Season, Wembely, England 
+- 2026        Oil Painting Gold Prize, Future Art & Design Award UK - 2026 Summer Season, Wembely, England 
 - 2025        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 - 2025        Painting Gold Prize, GBCA Global Best Creative Awards - 2025 Season 2, Wembely, England 
 - 2025        Oil Painting Gold Prize, Future Art & Design Award UK - 2025 Spring Season, Wembely, England 
@@ -51,6 +54,7 @@ The underlying logic of life is breathing. Social factors endow this breathing w
 - 2022        Certificate of Artistic Achievement, Luxembourg Art Prize, Pinacothèque Luxembourg, Luxembourg 
 
 ### Selected Press
+- Article "Breathing Rooms: Yi Zhu and the Architecture of Contemporary Existence" by [**Artist Ledger**](https://artistryledger.com/breathing-rooms-yi-zhu-architecture-of-contemporary-existence/) (2026).
 - Article "Yi Zhu: Deconstructing Life and Reconstructing Existence through the Expressive Power of Oil" by [**Fine Arts News**](https://fineartsnews.com/2026/04/yi-zhu-deconstructing-life-and-reconstructing-existence-through-the-expressive-power-of-oil/) (2026).
 - Article "10 Questions with Yi Zhu" by [**Al-Tiba9 Art Magazine**](https://www.altiba9.com/artist-interviews/yi-zhu-painting-figures-philosophy-spiritual) (2026).
 - Article "Mr. Zhu Yi's Deconstruction and Reconstruction of Painting - Decentralized Tuber Works from Genesis to Existence" by [**Artron**](https://news.artron.net/20251113/n1145911.html) (2025).
