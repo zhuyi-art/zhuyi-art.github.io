@@ -7,6 +7,7 @@ title: 503 Service Unavailable
 date: 2026-01-01
 tags:
 - 2026
+- awards
 hideExif: true
 hideDate: true
 ---
@@ -17,3 +18,5 @@ hideDate: true
 - Year: 2026
 - Medium: Oil on canvas
 - Size: 100 x 80 cm
+
+The oil painting **503 Service Unavailable** won the Platinum Award in the Painting category during the 2026 Summer Season at UK International AI Award.
